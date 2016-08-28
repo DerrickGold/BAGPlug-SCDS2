@@ -1,0 +1,9 @@
+BAGSFC:
+"/BAGSFC/BAGSFC.plg"//file path
+[$PRGMPATH$,$FILEPATH$]//arguments are separated by commas
+;
+
+CATSFC:
+"/CATSFC/CATSFC.plg"//file path to the plugin
+[$PRGMPATH$,$FILEPATH$]//arguments are separated by commas
+;

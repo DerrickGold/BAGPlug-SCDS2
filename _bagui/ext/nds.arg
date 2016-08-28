@@ -1,0 +1,10 @@
+Internal:
+"$INTERNAL$"//file path
+[$PRGMPATH$]//arguments are separated by commas
+;
+
+EOS 1.11:
+"/_dstwo/DSGAME.nds"//file path
+[$PRGMPATH$]//arguments are separated by commas
+-EOSSETTINGS
+;

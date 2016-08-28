@@ -1,0 +1,3 @@
+/_DSTwo/DSGAME.nds
+/_bagui/programs/Etch/etch.nds
+/_bagui/programs/Mario Paint Composer DS/MarioPaintComposer.nds

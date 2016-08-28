@@ -1,0 +1,6 @@
+Etch:
+"/_bagui/programs/Etch/etch.nds"//file path
+[$PRGMPATH$,$FILEPATH$]//arguments are separated by commas
+;
+
+

@@ -1,0 +1,4 @@
+nesDS:
+"/_bagui/nesDS/nesDS.nds"//file path
+[$PRGMPATH$,$FILEPATH$]//arguments are separated by commas
+;
